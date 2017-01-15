@@ -1,0 +1,6 @@
+com\hcl\mongodb\repository\User.class
+hello\WebSecurityConfig.class
+hello\MvcConfig.class
+com\hcl\mongodb\repository\UserRole.class
+com\hcl\mongodb\repository\UserRepository.class
+hello\Application.class
